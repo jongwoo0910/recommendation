@@ -2,16 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/kimsuyeon0/recommendation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
+#### 1) 짧은 클립에 해당하는 영상에 음악을 자동으로 입힌 후 다운로드 받을 수 있게 하는 것이 우리의 목표
 ## Header 2
 ### Header 3
 
